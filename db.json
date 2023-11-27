@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "name": "sdfg",
+      "age": "fgh",
+      "dob": "sdfg",
+      "aadhar": "dfgh",
+      "pan": "dfg",
+      "native": "fgh",
+      "mobile": "wert",
+      "id": 1
+    },
+    {
+      "name": "sdfg",
+      "age": "fgh",
+      "dob": "sdfg",
+      "aadhar": "dfgh",
+      "pan": "dfg",
+      "native": "fgh",
+      "mobile": "wert",
+      "id": 2
+    },
+    {
+      "name": "sona",
+      "age": "19",
+      "dob": "24/4/2005",
+      "aadhar": "123456789",
+      "pan": "456789098765",
+      "native": "coimbatore",
+      "mobile": "6369884254",
+      "id": 3
+    },
+    {
+      "name": "sona",
+      "age": "19",
+      "dob": "24/4/2005",
+      "aadhar": "2345678",
+      "pan": "456789098765",
+      "native": "coimbatore",
+      "mobile": "6369884254",
+      "id": 4
+    },
+    {
+      "name": "sona",
+      "age": "19",
+      "dob": "24/4/2005",
+      "aadhar": "2345678",
+      "pan": "456789098765",
+      "native": "coimbatore",
+      "mobile": "6369884254",
+      "id": 5
+    },
+    {
+      "name": "sona",
+      "age": "19",
+      "dob": "24/4/2005",
+      "aadhar": "2345678",
+      "pan": "456789098765",
+      "native": "coimbatore",
+      "mobile": "6369884254",
+      "id": 6
+    }
+  ]
+}
